@@ -1,0 +1,5 @@
+"https://opencart.smartaddons.com/themes/so_bigboom/image/cache/catalog/so_color_swatches_pro_icons/Mint-20x20.png"  
+"https://opencart.smartaddons.com/themes/so_bigboom/image/cache/catalog/so_color_swatches_pro_icons/Red-20x20.png"   
+"https://opencart.smartaddons.com/themes/so_bigboom/image/cache/catalog/so_color_swatches_pro_icons/Blue-20x20.png"  
+"https://opencart.smartaddons.com/themes/so_bigboom/image/cache/catalog/so_color_swatches_pro_icons/Silver-20x20.png"
+"https://opencart.smartaddons.com/themes/so_bigboom/image/cache/catalog/so_color_swatches_pro_icons/brown-20x20.png" 

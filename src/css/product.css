@@ -1,0 +1,45 @@
+.product{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: rgb(243, 238, 238);
+    width: 200px;
+    height: 250px;
+ margin-right: 25px;
+}
+.product:hover{
+    background: white;
+    box-shadow: 2px 2px 9px rgb(230, 228, 228) , -2px -2px 9px rgb(230, 228, 228) ;
+    
+}
+.product-btm p{
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    font-size: 1.2rem;
+    line-height: 42px;
+    margin-top: 20px;
+}
+.product-btm p:hover{
+    color: #ff5d1d;
+    cursor: pointer;
+}
+.product-top img{
+  
+    transform-origin: bottom center;
+}
+.product-top img:hover{
+    animation: shake 0.15s linear;
+animation-iteration-count: 5;
+
+}
+@keyframes shake {
+    0%{
+        transform: rotate(-5deg);
+    }
+    50%{
+        transform: rotate(5deg);
+    }
+    
+}

@@ -1,0 +1,10 @@
+.brand-container img{
+    cursor: pointer;
+opacity: 0.5;
+}
+.brand-container img:hover{
+    opacity: 1;
+}
+.brand-container{
+    margin-right: 2rem;
+}
